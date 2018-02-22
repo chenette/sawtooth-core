@@ -1,6 +1,6 @@
-************************
-Importing the Python SDK
-************************
+********************
+Importing the Go SDK
+********************
 
 .. note::
    The Sawtooth Python SDK requires Python version 3.5 or higher

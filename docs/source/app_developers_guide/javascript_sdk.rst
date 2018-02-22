@@ -5,6 +5,7 @@ JavaScript SDK
 .. toctree::
    :maxdepth: 2
 
+   javascript_sdk_install.rst
    ../_autogen/sdk_submit_tutorial_js
    ../_autogen/sdk_TP_tutorial_js
 
